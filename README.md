@@ -12,6 +12,6 @@
 
 [lab-07](https://github.com/akhila1119/AIML_13/blob/main/lab-7)
 
-[lab-08](
+[lab-08](https://github.com/akhila1119/AIML_13/blob/main/lab-8)
 
 [lab-09](
